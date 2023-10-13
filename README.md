@@ -1,10 +1,9 @@
 ### Hi there 👋
-## My name is Daniel Becher and I'm a Front-end Developer.
 
-## I currently work in an E-commerce agency with the VTEX CMS (legacy) and VTEX IO.
+<p>Welcome to my page! </br> I'm Daniel, Frontend developer from <b>São José(SC), Brasil</b></p>
+<p> I currently work in an E-commerce agency with the VTEX CMS (legacy) and VTEX IO.</p>
 
-
-## Dev with
+## I'm working with
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
