@@ -1,12 +1,10 @@
 ### Hi there 👋
-## Meu nome é Daniel Becher. Sou Desenvolvedor Front-End!
+## My name is Daniel Becher and I'm a Front-end Developer.
 
-## Atualmente trabalho em uma agência de e-commerce com a plataforma VTEX CMS (legado) e VTEX IO.
+## I currently work in an E-commerce agency with the VTEX CMS (legacy) and VTEX IO.
 
 
-## Ferramentas e Tecnologias
-
-## Desenvolvimento
+## Dev with
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -18,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" width="40" height="40"/>
 </div>
 
@@ -34,7 +32,7 @@
 </div>
 
 
-### You can find me in...
+### You can find me
 
 <div>
   <a href = "mailto:daniel@becher.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -42,7 +40,7 @@
   <a href="https://instagram.com/daniel.becher" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-### Some stats...
+### Some stats
 <div>
   <a href="https://github.com/danielbecher">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbecher&layout=compact&langs_count=7&theme=dracula"/>
