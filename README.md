@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" width="20" height="20"/>
 </div>
 
-## Infra
+## Developing with
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20" height="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20"/>
@@ -42,6 +42,6 @@
 ### Some stats
 <div>
   <a href="https://github.com/danielbecher">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbecher&layout=compact&langs_count=7&theme=dracula"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbecher&layout=compact&langs_count=7&theme=dracula"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbecher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
